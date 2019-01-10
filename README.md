@@ -1,7 +1,7 @@
 # Folder_Belajar_Git
 
-<h3>About This Site</h3>
-<p>Welcome in My Site</p>
+### About This Site
+Halaman ini adalah, halaman pertama saya dalam belajar Git
 
-<h3>About Me</h3>
-<p>Nama saya Wahyu Pambudi, Lulusan SMK Jurusan Teknik Komputer Jaringan</p>
+### About Me
+Nama Wahyu Pambudi, Lulusan SMK Jurusan Teknik Komputer Jaringan, Sedang Mengikuti Kursus Web Developer Full Stack selama 3 Bulan.
